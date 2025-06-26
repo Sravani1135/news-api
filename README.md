@@ -37,3 +37,19 @@
 ---
 
 ## 📁 Project Structure
+newspulse/
+├── index.html # Main landing page
+├── style.css # Stylesheet
+├── script.js # JS for fetching and rendering news
+├── logo.png # App logo
+├── newsAPI.png # (Optional) Screenshot for README
+└── README.md # Project documentation
+
+---
+
+## 🧪 Setup & Usage
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/newspulse.git
+   cd newspulse
